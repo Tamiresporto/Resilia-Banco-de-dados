@@ -34,6 +34,9 @@ Representação gráfica de um modelo relacional de dados.<i><h3>
  <h3>O start da modelagem se dá a partir das ENTIDADES. Uma entidade é uma representação de um conjunto de informações sobre determinado conceito do sistema. Neste começo, temos o nosso Diagrama de Entidade-Relacionamento:
 Entidades: Alunos, Avaliações, Turmas
 Relacionamentos: Alunos - Avaliações, Avaliação - Turmas. 
+   
+   ![Projeto-Resilia (17)](https://user-images.githubusercontent.com/112409145/207613240-10bb79c1-db23-43f9-9a50-53db5ea5989e.jpg)
+
    Determinados os relacionamentos, temos que verificar o número de referências de uma entidade em outra, ou seja, agora vamos verificar a CARDINALIDADE dos relacionamentos. Vejamos as possibilidades:
 
 Relacionamento Um-Para-Um (1:1) - Uma instância da entidade A relaciona-se a uma instância da entidade B
