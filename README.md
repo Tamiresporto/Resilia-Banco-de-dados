@@ -33,4 +33,4 @@ Representação gráfica de um modelo relacional de dados.<i><h3>
 
  <h3>O start da modelagem se dá a partir das ENTIDADES. Uma entidade é uma representação de um conjunto de informações sobre determinado conceito do sistema. Neste começo, temos o nosso Diagrama de Entidade-Relacionamento:
 Entidades: Alunos, Avaliações, Turmas
-Relacionamentos: Alunos - Avaliações, Avaliação - Turmas<h3>
+Relacionamentos: Alunos - Avaliações, Avaliação - Turmas. <h3>
