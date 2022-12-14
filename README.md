@@ -6,6 +6,7 @@ Representação gráfica de um modelo relacional de dados.<i><h3>
 
 ![Projeto-Resilia (1)](https://user-images.githubusercontent.com/112409145/207366723-ef5f80b1-a6f3-4c72-83fe-d962c365ab87.jpg)
 
+  <hr>
 <h4>Projeto foi desenvolvido com sete entidades: Alunos, Turmas, Avaliação, Facilitadores, Cursos, Disciplinas e Matrícula.
   
 ![Projeto-Resilia (10)](https://user-images.githubusercontent.com/112409145/207607901-13f5c931-58b9-48e2-9b6e-c401653367af.jpg)
@@ -20,11 +21,15 @@ Representação gráfica de um modelo relacional de dados.<i><h3>
   
   ![Projeto-Resilia (8)](https://user-images.githubusercontent.com/112409145/207606133-094d87cf-7954-452d-9e6a-6f7fb74f28a5.jpg)
   
+  <hr>
+  
 ![Projeto-Resilia (15)](https://user-images.githubusercontent.com/112409145/207608857-36513f62-5a7b-45c3-a64b-b44e5e603e18.jpg)
   
 <h3>A entidade alunos teve campos preenchidos com tipos CPF, RG e Email, com o objetivo de identificar os alunos, que também podem ser chaves primárias por ser algo único e trazer autenticação para o banco de dados. <h3>
   
   ![Projeto-Resilia](https://user-images.githubusercontent.com/112409145/207604599-dba53d44-8255-4e2d-8cab-348fa3c37b0d.jpg)
+  
+  <hr>
 
   <h3> Quando os atributos de uma entidade formam o atributo de outra, podermos dizer que existem uma referenciação entre as entidades. O mesmo ocorrerá com relação à entidade Alunos. Pelo simples fato de existir esta referência de uma entidade em outra, temos então o que chamamos de RELACIONAMENTO. <h3>
     
