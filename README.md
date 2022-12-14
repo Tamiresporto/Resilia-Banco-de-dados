@@ -25,18 +25,18 @@ Representação gráfica de um modelo relacional de dados.<i><h3>
   
 ![Projeto-Resilia (15)](https://user-images.githubusercontent.com/112409145/207608857-36513f62-5a7b-45c3-a64b-b44e5e603e18.jpg)
   
-<h3>A entidade alunos teve campos preenchidos com tipos CPF, RG e Email, com o objetivo de identificar os alunos, que também podem ser chaves primárias por ser algo único e trazer autenticação para o banco de dados. <h3>
+<h4>A entidade alunos teve campos preenchidos com tipos CPF, RG e Email, com o objetivo de identificar os alunos, que também podem ser chaves primárias por ser algo único e trazer autenticação para o banco de dados. <h4>
   
   ![Projeto-Resilia](https://user-images.githubusercontent.com/112409145/207604599-dba53d44-8255-4e2d-8cab-348fa3c37b0d.jpg)
   
   <hr>
 
-  <h3> Quando os atributos de uma entidade formam o atributo de outra, podermos dizer que existem uma referenciação entre as entidades. O mesmo ocorrerá com relação à entidade Alunos. Pelo simples fato de existir esta referência de uma entidade em outra, temos então o que chamamos de RELACIONAMENTO. <h3>
+  <h4> Quando os atributos de uma entidade formam o atributo de outra, podermos dizer que existem uma referenciação entre as entidades. O mesmo ocorrerá com relação à entidade Alunos. Pelo simples fato de existir esta referência de uma entidade em outra, temos então o que chamamos de RELACIONAMENTO. <h4>
     
     
  ![Projeto-Resilia (16)](https://user-images.githubusercontent.com/112409145/207610200-e7ac42c4-724d-4a23-a4e8-f21713f52b11.jpg)
 
- <h3>O start da modelagem se dá a partir das ENTIDADES. Uma entidade é uma representação de um conjunto de informações sobre determinado conceito do sistema. Neste começo, temos o nosso Diagrama de Entidade-Relacionamento:
+ <h4>O start da modelagem se dá a partir das ENTIDADES. Uma entidade é uma representação de um conjunto de informações sobre determinado conceito do sistema. Neste começo, temos o nosso Diagrama de Entidade-Relacionamento:
 Entidades: Alunos, Avaliações, Turmas
 Relacionamentos: Alunos - Avaliações, Avaliação - Turmas. 
    
@@ -46,4 +46,4 @@ Relacionamentos: Alunos - Avaliações, Avaliação - Turmas.
 
 Relacionamento Um-Para-Um (1:1) - Uma instância da entidade A relaciona-se a uma instância da entidade B <p>
 Relacionamento Um-Para-Vários (1:N) - Uma instância da entidade A relaciona-se a várias instâncias da entidade B <p>
-Relacionamento Vários-Para-vários (N:M) - Várias instâncias da entidade A relacionam-se a várias instâncias da entidade B <p><h3>
+Relacionamento Vários-Para-vários (N:M) - Várias instâncias da entidade A relacionam-se a várias instâncias da entidade B <p><h4>
