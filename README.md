@@ -1,8 +1,8 @@
 # Resilia-Banco-de-dados
-<h3>Projeto de Modelagem de Banco de dados da empresa Resilia<h3>
+<h2>Projeto de Modelagem de Banco de dados da empresa Resilia<h2>
 
-<h5><i>Neste projeto está sendo utilizado o modelo Relacional, a imagem mostra várias tabelas ligadas entre si, um banco de dados da Resilia que oferece cursos de Programação para desenvolvimento voltado ao mercado de trabalho.
-Representação gráfica de um modelo relacional de dados.<i><h5>
+<h3><i>Neste projeto está sendo utilizado o modelo Relacional, a imagem mostra várias tabelas ligadas entre si, um banco de dados da Resilia que oferece cursos de Programação para desenvolvimento voltado ao mercado de trabalho.
+Representação gráfica de um modelo relacional de dados.<i><h3>
 
 ![Projeto-Resilia (1)](https://user-images.githubusercontent.com/112409145/207366723-ef5f80b1-a6f3-4c72-83fe-d962c365ab87.jpg)
 
@@ -25,3 +25,12 @@ Representação gráfica de um modelo relacional de dados.<i><h5>
 <h3>A entidade alunos teve campos preenchidos com tipos CPF, RG e Email, com o objetivo de identificar os alunos, que também podem ser chaves primárias por ser algo único e trazer autenticação para o banco de dados. <h3>
   
   ![Projeto-Resilia](https://user-images.githubusercontent.com/112409145/207604599-dba53d44-8255-4e2d-8cab-348fa3c37b0d.jpg)
+
+  <h3> Quando os atributos de uma entidade formam o atributo de outra, podermos dizer que existem uma referenciação entre as entidades. O mesmo ocorrerá com relação à entidade Alunos. Pelo simples fato de existir esta referência de uma entidade em outra, temos então o que chamamos de RELACIONAMENTO. <h3>
+    
+    
+ ![Projeto-Resilia (16)](https://user-images.githubusercontent.com/112409145/207610200-e7ac42c4-724d-4a23-a4e8-f21713f52b11.jpg)
+
+ <h3>O start da modelagem se dá a partir das ENTIDADES. Uma entidade é uma representação de um conjunto de informações sobre determinado conceito do sistema. Neste começo, temos o nosso Diagrama de Entidade-Relacionamento:
+Entidades: Alunos, Avaliações, Turmas
+Relacionamentos: Alunos - Avaliações, Avaliação - Turmas<h3>
