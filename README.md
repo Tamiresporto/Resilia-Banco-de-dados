@@ -6,4 +6,4 @@ Representação gráfica de um modelo relacional de dados.<h5>
 
 ![Projeto-Resilia (1)](https://user-images.githubusercontent.com/112409145/207366723-ef5f80b1-a6f3-4c72-83fe-d962c365ab87.jpg)
 
-
+Projeto foi desenvolvido com sete entidades: Alunos, Turmas, Avaliação, Facilitadores, Cursos, Disciplinas e Matrícula, 
