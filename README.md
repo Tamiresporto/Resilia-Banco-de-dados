@@ -9,18 +9,6 @@ Representação gráfica de um modelo relacional de dados.<i><h5>
   <hr>
 <h4>Projeto foi desenvolvido com sete entidades: Alunos, Turmas, Avaliação, Facilitadores, Cursos, Disciplinas e Matrícula.
   
-![Projeto-Resilia (10)](https://user-images.githubusercontent.com/112409145/207607901-13f5c931-58b9-48e2-9b6e-c401653367af.jpg)
-  
-![Projeto-Resilia (11)](https://user-images.githubusercontent.com/112409145/207608111-b3df3ad1-8cbe-45fc-9d6f-d92a1e0a4264.jpg)
-  
-![Projeto-Resilia (13)](https://user-images.githubusercontent.com/112409145/207608491-3bfdde8d-a71f-4373-ba3c-4cc03501a675.jpg)
-  
-![Projeto-Resilia (14)](https://user-images.githubusercontent.com/112409145/207608706-f2ae0c09-1cbb-411f-90b4-5030fc72a9fe.jpg)
-  
-  ![Projeto-Resilia (7)](https://user-images.githubusercontent.com/112409145/207605969-4404be33-45ac-4e7f-9b50-27e61de390ad.jpg)
-  
-  ![Projeto-Resilia (8)](https://user-images.githubusercontent.com/112409145/207606133-094d87cf-7954-452d-9e6a-6f7fb74f28a5.jpg)
-  
   <hr>
   
 ![Projeto-Resilia (15)](https://user-images.githubusercontent.com/112409145/207608857-36513f62-5a7b-45c3-a64b-b44e5e603e18.jpg)
